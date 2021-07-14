@@ -17,8 +17,8 @@ function App() {
         >
           Learn React
         </a>
-        <p>Pretend we broke something. major update.</p>
-        <h3>Version 1.0.0</h3>
+        <p>new patch.</p>
+        <h3>Version 1.0.1</h3>
       </header>
     </div>
   );
